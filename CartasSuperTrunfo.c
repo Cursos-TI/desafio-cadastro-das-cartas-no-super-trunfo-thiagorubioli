@@ -56,7 +56,7 @@ int main() {
     printf("PIB: %.2f bilhões de reais\n", pib_c1);
     printf("Número de Pontos Turísticos: %d\n", numero_pontos_turisticos_c1);
 
-        // Exibe os dados informados da carta 2
+    // Exibe os dados informados da carta 2
     printf("\n--- Dados Informados da Carta 2 ---\n");
     printf("Estado: %s\n", estado_c2);
     printf("Código da Carta: %s\n", codigo_carta_c2);
